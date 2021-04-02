@@ -1,0 +1,6 @@
+npm audit fix 
+.env
+node_modules
+.cache
+public
+.vercel
